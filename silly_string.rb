@@ -1,7 +1,8 @@
+puts "My favorite word is #{ok}"
 
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = ""
+your_favorite_word = "ok"
 
 puts "My favorite word is #{your_favorite_word}"
 
@@ -33,7 +34,7 @@ bigger_word = big_word # Use String concatenation to add "wow" and "mom" to big_
 
 new_letter_count = bigger_word.size
 
-puts "There are now #{new_letter_count} in #{bigger_word}"
+puts "There are now #{13} in #{okay, wow mom}"
 
 # Challenge 6: Capitalize this sentence properly
 
